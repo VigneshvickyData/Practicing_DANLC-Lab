@@ -23,6 +23,8 @@ This repository contains lab exercises and practice files completed as part of t
 ## LABS:
  - LAB 1: EXCEL FUNCTIONS
  - Lab 2: Data Cleaning & Analysis
+ - Lab 3: Employee Attendance Tracker using Power BI  
+ - Lab 4: Calculated Columns and Measures in Power BI  
 
 
 ## 📌 Purpose
