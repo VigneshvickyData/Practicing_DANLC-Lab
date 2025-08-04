@@ -40,6 +40,15 @@ Simulated a webinar registration scenario using real-world list operations (appe
 ### ✅ Lab 7: Tuple Methods, Packing, Unpacking & Conversion  
 Worked with tuples to represent structured records and practiced packing/unpacking and data conversion.
 
+### ✅ Lab 8: Set Operations and Inventory Management  
+Explored set operations to handle unique items and performed inventory comparison tasks using Python sets.
+
+### ✅ Lab 9: Dictionary Operations Using App Profiles  
+Used dictionaries to simulate app user profiles, and practiced accessing, updating, and filtering data based on keys and values.
+
+### ✅ Lab 10: Operator-Based Computation using Python  
+Implemented arithmetic operations like addition, subtraction, multiplication, and division using Python variables, demonstrating operator-based computation.
+
 ---
 
 ## 📌 Purpose
