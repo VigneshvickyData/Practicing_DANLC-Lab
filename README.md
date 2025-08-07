@@ -4,7 +4,7 @@ This repository contains lab exercises and practice files completed as part of t
 
 ---
 
-## 🧠 Skills Practiced
+## Skills Practiced
 
 - Excel formulas and functions (IF, VLOOKUP, HLOOKUP, COUNTIF, etc.)
 - Data cleaning and transformation using Excel and Google Sheets
